@@ -19,11 +19,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/react-bootstrap-table/react-bootstrap-table2.git"
+        "url": "git+https://github.com/weigroup/react-bootstrap-table2.git"
     },
     "author": "AllenFang",
-    "contributors": [
-        {
+    "contributors": [{
             "name": "Allen Fang",
             "email": "ayu780129@hotmail.com",
             "url": "https://github.com/AllenFang"
@@ -84,7 +83,8 @@
         "prop-types": "15.5.10",
         "react": "16.4.0",
         "react-dom": "16.4.0",
-        "underscore": "1.9.1"
+        "underscore": "1.9.1",
+        "yarn": "^1.22.10"
     },
     "jest": {
         "collectCoverageFrom": [
